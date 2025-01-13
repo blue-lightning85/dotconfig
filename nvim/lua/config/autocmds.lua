@@ -1,0 +1,6 @@
+--  ┏━┓╻ ╻╺┳╸┏━┓┏━╸┏┳┓╺┳┓┏━┓ ╻  ╻ ╻┏━┓
+--  ┣━┫┃ ┃ ┃ ┃ ┃┃  ┃┃┃ ┃┃┗━┓ ┃  ┃ ┃┣━┫
+--  ╹ ╹┗━┛ ╹ ┗━┛┗━╸╹ ╹╺┻┛┗━┛╹┗━╸┗━┛╹ ╹
+--  Author: Redline
+--  Descritpion:
+--  - Add any additional autocmds here
