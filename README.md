@@ -1,6 +1,4 @@
-## ╺┳┓┏━┓╺┳╸┏━╸┏━┓┏┓╻┏━╸╻┏━╸
-##  ┃┃┃ ┃ ┃ ┃  ┃ ┃┃┗┫┣╸ ┃┃╺┓
-## ╺┻┛┗━┛ ╹ ┗━╸┗━┛╹ ╹╹  ╹┗━┛
+#### Title: Dotconfig
 #### Author: Bluelightining85
 #### Description:
 - Provides configuration files for ~/.config/
